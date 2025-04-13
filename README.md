@@ -43,7 +43,9 @@ The dataset was sourced from [Chicago Data Portal](https://data.cityofchicago.or
    ```bash
    git clone https://github.com/yourusername/predicting-school-safety.git
    cd predicting-school-safety
-pip install -r requirements.txt
-jupyter notebook
+   pip install -r requirements.txt
+   jupyter notebook
+
+
 
 
