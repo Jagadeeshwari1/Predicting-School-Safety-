@@ -1,4 +1,4 @@
-# Predicting-School-Safety-
+
 # 📊 Predicting School Safety
 
 This project aims to develop a predictive model to assess the safety of schools in Chicago based on various socio-economic, environmental, and academic indicators. The model provides insights that can be used by policymakers, educators, and communities to improve school safety and foster better educational environments.
